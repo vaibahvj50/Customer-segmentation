@@ -18,4 +18,4 @@ Initially, the data is subject to important stages in an analytics pipeline: exp
 
 • Sales has been increased from 2010 to 2011.
 
-• RFM for Cluster ID box plots tells well about Cluster detail.
+• RFM for Cluster ID box plots tells well about Cluster detail..
